@@ -1,9 +1,29 @@
-.red{
-    box-sizing: border-box;
+.background{
+    background-color: black}
+.head{
+    box-sizing: content-box;
     width: 100%;
-    height: 200px;
-    border: 10px;
-    padding: 5px;
-    background-color:red;}
-
-.border{}
+    height: 230px;
+    background-color:black;
+}
+.center{
+    width: 100%;
+}
+.float{
+    float: left;
+}
+.left{
+    width: 10%;
+    height: 1200px;
+    background-color:orangered 
+}
+.middle{
+    width: 80%;
+    height: 1000px;
+    background-color: orange
+}
+.right{
+    width: 10%;
+    height: 1200px;
+    background-color: orangered 
+}
