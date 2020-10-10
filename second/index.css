@@ -34,8 +34,26 @@
 .dbox{
     box-sizing: border-box;
     width: 90%;
-    height: 250px;
-    margin-top: 50%;
-    border: dotted black 50px;
+    height: 290px;
+    margin-top: 10px;
+    border: dotted black 5px;
     background-color: white;
+}
+.shadow{
+    width: 600px;
+    height: 230px;
+    margin-top: 10px;
+    margin-left: 255px;
+    opacity: 80%;
+    background-color: black;
+}
+
+
+
+.bbox{
+    width: 600px;
+    height: 230px;
+    margin-top: 25px;
+    margin-left: 250px;
+    background-color: crimson;
 }
